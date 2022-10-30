@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid gold;
+    padding: 10px;
+    text-align: center;
+}
+
+ul,
+ol {
+    border: 5px dashed gold;
+}
+
+img {
+    border: 2.5px solid gold;
+}
+
+p {
+    font-style: italic;
+}
